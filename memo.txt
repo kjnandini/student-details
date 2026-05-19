@@ -1,0 +1,4 @@
+To : recipient"s name and title
+From : xxxxxx
+date : m/d/y
+subject : a highly specific, concise phrase describing the memo"s main point
