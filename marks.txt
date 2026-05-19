@@ -1,0 +1,6 @@
+suject   marks
+science    98
+maths      97
+socil      100
+english    86
+kannada     67
